@@ -11,7 +11,6 @@ public class StudentMain {
         student2.printInfo();
     }
 }
-
 class Student{
 
     int id;
