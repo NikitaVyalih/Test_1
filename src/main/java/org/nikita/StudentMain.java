@@ -23,6 +23,7 @@ class Student{
     String email;
     boolean haveScholarship;
 
+
     Student(int id, String name, String surname, int course, int age,
     char sex, String email, boolean haveScholarship){
         this.id = id;
