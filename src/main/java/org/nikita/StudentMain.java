@@ -35,7 +35,6 @@ class Student{
         this.email = email;
         this.haveScholarship = haveScholarship;
     }
-
     Student(int id, String name, String surname, int course){
         this(id, name, surname, course, 0, '0', null, false );
     }
